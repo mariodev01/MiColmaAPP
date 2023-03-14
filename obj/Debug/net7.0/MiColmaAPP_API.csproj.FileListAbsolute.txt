@@ -74,3 +74,5 @@ C:\Users\Ultra T\source\repos\MiColmaAPP\MiColmaAPP_API\obj\Debug\net7.0\refint\
 C:\Users\Ultra T\source\repos\MiColmaAPP\MiColmaAPP_API\obj\Debug\net7.0\MiColmaAPP_API.pdb
 C:\Users\Ultra T\source\repos\MiColmaAPP\MiColmaAPP_API\obj\Debug\net7.0\MiColmaAPP_API.genruntimeconfig.cache
 C:\Users\Ultra T\source\repos\MiColmaAPP\MiColmaAPP_API\obj\Debug\net7.0\ref\MiColmaAPP_API.dll
+C:\Users\Ultra T\source\repos\MiColmaAPP\MiColmaAPP_API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Ultra T\source\repos\MiColmaAPP\MiColmaAPP_API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

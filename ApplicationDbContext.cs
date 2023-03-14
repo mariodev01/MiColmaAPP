@@ -17,9 +17,9 @@ namespace MiColmaAPP_API
             ColmadoSeeding.Seed(builder);
         }
 
-        DbSet<Cliente> Clientes { get; set; }
-        DbSet<Producto> Productos { get; set; }
-        DbSet<Orden> Ordenes { get; set; }
-        DbSet<OrdenProducto> OrdenProducto { get; set; }
+       public DbSet<Cliente> Clientes { get; set; }
+       public DbSet<Producto> Productos { get; set; }
+       public DbSet<Orden> Ordenes { get; set; }
+       public DbSet<OrdenProducto> OrdenProducto { get; set; }
     }
 }
